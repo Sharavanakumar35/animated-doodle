@@ -15,3 +15,5 @@ git branch -M main
 git remote add origin https://github.com/Sharavanakumar35/animated-doodle.git
 git push -u origin main
 ```
++ I have created an empty folder in y file explorer and opened the folder in CMD. After opened CMD, I just copy-pasted the lines one-by-one. 
++ The first line `echo "# animated-doodle" >> README.md` created an README.md file with the content `"# animated-doodle"`.
