@@ -1,8 +1,8 @@
-"# git-and-github" 
+# git-and-github
 
-This repo is created for giving intro on Git and Github.
+## This repo is created for giving intro on Git and Github.
 
-Things I did for making this repo:
+### Things I did for making this repo:
 
 + Created an empty repo name `git-and-github` in [Github](https://github.com/new)
 + Copied the contents from the page titled `create a new repo on the command line` and the lines are :point_down:,
