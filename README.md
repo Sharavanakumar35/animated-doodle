@@ -1,6 +1,6 @@
 # git-and-github
 
-## This repo is created for giving intro on Git and Github.
+## This repo is created for giving intro on ***Git and Github***.
 
 ### Things I did for making this repo:
 
